@@ -1,0 +1,2 @@
+D:/Coding/Flutter/Projects/spotify/android/app/.cxx/Debug/325a4z5i/x86_64/CMakeFiles/edit_cache.dir
+D:/Coding/Flutter/Projects/spotify/android/app/.cxx/Debug/325a4z5i/x86_64/CMakeFiles/rebuild_cache.dir
